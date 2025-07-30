@@ -75,6 +75,7 @@ Contributions are welcome!
 
 
 # Outputs
+<img width="386" height="297" alt="image" src="https://github.com/user-attachments/assets/f1778ca5-c328-41a4-bcff-12efa38a1618" />
 
 
 Submit a pull request
